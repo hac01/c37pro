@@ -173,7 +173,7 @@ if(gameState==="serve"){
     text("1: Use Your Right And Left Key To Move.",440,235)
     text("2: Try To Save YourSelf From Obstacle.",440,260)
     text("3: Try To Get Health Drink.",440,285)
-    text("4: Use Enter Key To Start The Game.",440,310)
+    text("4: Use Space Key To Start The Game.",440,310)
     text("5: Hope You Enjoy The Game :)",440,335)
 }
 
